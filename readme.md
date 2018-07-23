@@ -358,3 +358,5 @@ books.forEach((value, key) => { //forEach可以迭代map
 });
 books.clear();//清空map
 ```
+
+## 82原则
